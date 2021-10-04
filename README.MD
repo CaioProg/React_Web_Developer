@@ -1,4 +1,7 @@
 # Projects created in Bootcamp React Web Developer 
+<br>
+<br>
+
 <h2>Flex Turismos:</h2><p>
 Done in the course "Posicionando elementos com Flexbox em CSS".
 <p align="center">
@@ -18,4 +21,4 @@ Done in the course "Recriando a Interface do Netflix".
 
 <br>
 
-<a href="https://web.digitalinnovation.one/track/impulso-react-web-developer?tab=path">Access Bootcamp</a>
+<a href="https://web.digitalinnovation.one/track/impulso-react-web-developer?tab=path" target="_blank">Access Bootcamp</a>
